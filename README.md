@@ -1,16 +1,29 @@
-# int_to_word
+# Int to Word and Roman Converter
 
-A new Flutter project.
+## Overview
+This application converts integer numbers into their word representation and Roman numeral representation.
 
-## Getting Started
+## Features
+- Converts integers to words (e.g., 123 -> "one hundred twenty-three").
+- Converts integers to Roman numerals (e.g., 123 -> "CXXIII").
+- Supports a range of integers.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- C++
+- Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the application.
+4. Input the integer you want to convert.
+5. Choose whether you want the word or Roman representation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Contribute
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
