@@ -12,6 +12,12 @@ This application converts integer numbers into their word representation and Rom
 - C++
 - Flutter
 
+## Project Glimpse
+<div align="center">
+  <video src="https://github.com/anuragsharmark/IntToWordToRoman/assets/72140902/69a6c90e-be1a-48c0-8130-8d0ac7d64f51" width=400/>
+</div>
+
+
 ## Usage
 1. Clone the repository.
 2. Navigate to the project directory.
